@@ -83,6 +83,14 @@ Live website:
 
 ---
 
+## Support Us
+
+This project will be made open source soon. Until then, you can support us here:
+
+[![Support Us](https://img.shields.io/badge/Support%20Us-Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/tanayvasishtha)
+
+---
+
 ## Contributing
 
 Contributions, feedback, and issue reports are welcome.
