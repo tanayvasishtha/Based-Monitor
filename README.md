@@ -77,9 +77,9 @@ The goal is to show what matters **now** - fast, clearly, and with context.
 
 ## Demo
 
-Set your live link here:
+Live website:
 
-`https://your-live-basedmonitor-url.com`
+`https://www.basedmonitor.com/`
 
 ---
 
