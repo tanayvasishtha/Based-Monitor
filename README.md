@@ -101,7 +101,7 @@ If you build with this, open a PR and make it sharper.
 
 ## License
 
-Add your preferred license here (`MIT`, `Apache-2.0`, etc.).
+`Apache-2.0`
 
 ---
 
